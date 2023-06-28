@@ -23,5 +23,3 @@ export class HeroService {
     return of(hero);
   }
 }
-
-//fasdfa
